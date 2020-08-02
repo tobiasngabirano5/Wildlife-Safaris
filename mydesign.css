@@ -1,0 +1,61 @@
+.bdb{
+    padding: 5px;
+    padding-bottom: 10px;
+}
+.nav-contact{
+    display: flex;
+    background-color: rgb(15, 207, 95);
+    color: floralwhite;
+    padding: 5px;
+}
+.nav-contact h6{
+font-size: 15px;
+}
+.headerOL{
+    display: flex;
+    text-align: right;
+    list-style: none;
+    justify-content: space-between;
+    padding-left:500px;
+   
+}
+.nav-contact h6{
+    padding-top: 3px;
+padding-left: 10px;
+}
+.Iicon-hd{
+ 
+    width: 35px;
+    height:30px;
+    padding-left: 15px;
+    }
+  .headerOL .Iicon{
+  width: 30px;
+  height: 0 auto;
+  padding-left: 15px;
+  }
+.carousel-item{
+    height: 760px;
+   align-content: center;
+   background-position: center;
+   background-size: cover;
+   padding-bottom: 20px;
+}
+.carousel-inner{
+    width: 500px;
+    height: 0 auto;
+    text-align: center;
+    padding: 20px;
+  
+}
+.slide-text1{
+    color: rgb(92, 179, 6);
+transition-delay: 1s;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.slide-text2{
+    color: rgb(245, 65, 65);
+transition-delay: 1s;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
